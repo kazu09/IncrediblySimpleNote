@@ -10,10 +10,12 @@ import com.kazu.incrediblysimplenote.db.entity.Note;
 
 import java.util.List;
 
+import io.reactivex.rxjava3.core.Single;
+
 @Dao
 public interface NoteDao {
     @Query("SELECT * FROM note")
-    List<Note> getAll();
+    Single<List<Note>> getAll();
 
     @Update
     void update(Note note);
