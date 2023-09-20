@@ -14,5 +14,4 @@ public class Note {
 
     @ColumnInfo(name = "content")
     public String content;
-
 }
