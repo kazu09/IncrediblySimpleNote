@@ -13,7 +13,7 @@
   * バックキーまたは戻るアイコンをタップすると自動保存されます。
 <img alt="memo画面" width="200" src="https://github.com/kazu09/IncrediblySimpleNote/assets/64839248/50824f6a-9aaa-4ec8-9160-99be7689d11f">
 
-## DB
+## データベース
 |Column|Type|説明|
 |------|----|---|
 |uid|int|id|
