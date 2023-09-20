@@ -1,3 +1,9 @@
+/**
+ * SelectActivity.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.activity;
 
 import androidx.appcompat.app.AlertDialog;

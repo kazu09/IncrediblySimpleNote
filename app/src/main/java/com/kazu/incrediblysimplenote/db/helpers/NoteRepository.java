@@ -1,3 +1,9 @@
+/**
+ * NoteRepository.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.db.helpers;
 
 import com.kazu.incrediblysimplenote.db.dao.NoteDao;

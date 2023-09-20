@@ -1,3 +1,9 @@
+/**
+ * NoteDatabase.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.db.room;
 
 import androidx.room.Database;

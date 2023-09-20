@@ -1,3 +1,9 @@
+/**
+ * NoteHelper.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.db.helpers;
 
 import android.content.Context;

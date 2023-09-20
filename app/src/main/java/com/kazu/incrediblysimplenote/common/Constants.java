@@ -1,3 +1,9 @@
+/**
+ * Constants.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.common;
 
 public class Constants {

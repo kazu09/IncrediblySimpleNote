@@ -1,3 +1,9 @@
+/**
+ * Note.java
+ * IncrediblySimpleNote
+ *
+ * Copyright © 2023年 kazu. All rights reserved.
+ */
 package com.kazu.incrediblysimplenote.db.entity;
 
 import androidx.room.ColumnInfo;
